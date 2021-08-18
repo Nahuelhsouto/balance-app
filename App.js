@@ -26,7 +26,7 @@ const App = () => {
                 <Text
                   style={{
                     color: "#ffffff",
-                    marginRight: 30,
+                    marginRight: 25,
                     textAlign: "center",
                   }}
                 >
